@@ -52,7 +52,7 @@ class _EditCandidateInformationScreenState
                 centerTitle: false,
                 title: Row(
                   children:[ Text(
-                    "Chỉnh sửa hồ sơ cá nhân",
+                    "Chỉnh sửa hồ sơ",
                     style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.w500,
